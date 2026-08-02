@@ -16,6 +16,14 @@
 2. 将 `gworker.js` 的内容粘贴到在线编辑器中
 3. 保存并部署（Deploy）
 4. （可选）在 **Settings → Triggers** 中绑定自定义域名
+> [!IMPORTANT]
+> 注意（不看容易失败）
+> <img width="1994" height="1063" alt="QQ_1785649739292" src="https://github.com/user-attachments/assets/73ef19a9-0e3a-446e-991f-a925d269bbc8" />
+> <img width="1995" height="1071" alt="QQ_1785649916061" src="https://github.com/user-attachments/assets/39726928-90cb-4159-af91-85e9cca38fd4" />
+> 也可以选择服务模式：
+> <img width="1995" height="1069" alt="QQ_1785650025102" src="https://github.com/user-attachments/assets/45aa2a52-f891-494a-b1c2-1b21e3aeada3" />
+
+
 
 ## 使用方法
 
