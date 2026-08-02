@@ -79,9 +79,3 @@ curl https://gaiproxy.zhouyistudio.workers.dev/
 - 本代理不存储、不记录任何请求内容或 API Key，纯转发
 - 请妥善保管你的 Gemini API Key，不要将其硬编码在公开代码中
 - 如需限制访问来源（例如只允许特定域名跨域调用），可自行修改 CORS 相关响应头配置
-
-| `gemini-proxy-worker.js` | Worker 主程序（唯一需要部署的文件） |
-
-## License
-
-MIT
