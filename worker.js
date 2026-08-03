@@ -5,7 +5,7 @@ export default {
     const url = new URL(request.url);
     if (url.pathname === "/" || url.pathname === "") {
       return new Response(
-        JSON.stringify([{ status: "ok",code: 200, message: "Proxy is OK", target: GEMINI_HOST},{ by: "Zhouyi2013", github: "github.com/ZhouyiStudio" }]),
+        JSON.stringify([{ status: "ok",code: 200, message: "Proxy is OK", target: GEMINI_HOST},{ by: "Zhouyi2013", github: "github.com/ZhouyiStudio/GeminiRelay" }]),
         {
           status: 200,
           headers: { "Content-Type": "application/json; charset=utf-8" },
