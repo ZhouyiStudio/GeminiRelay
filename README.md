@@ -13,7 +13,7 @@
 ## 部署方式
 
 1. 登录 [Cloudflare Dashboard](https://dash.cloudflare.com/) → **Workers & Pages** → **Create Worker**
-2. 将 `gworker.js` 的内容粘贴到在线编辑器中
+2. 将 `worker.js` 的内容粘贴到在线编辑器中
 3. 保存并部署（Deploy）
 4. （可选）在 **Settings → Triggers** 中绑定自定义域名（尽量绑定，否则需要翻墙访问！）
 > [!IMPORTANT]
@@ -67,7 +67,7 @@ curl https://gaiproxy.zhouyistudio.workers.dev/
   },
   {
     "by": "Zhouyi2013",
-    "github": "github.com/ZhouyiStudio"
+    "github": "github.com/ZhouyiStudio/GeminiRelay"
   }
 ]
 ```
