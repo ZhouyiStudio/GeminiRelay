@@ -15,7 +15,7 @@
 1. 登录 [Cloudflare Dashboard](https://dash.cloudflare.com/) → **Workers & Pages** → **Create Worker**
 2. 将 `gworker.js` 的内容粘贴到在线编辑器中
 3. 保存并部署（Deploy）
-4. （可选）在 **Settings → Triggers** 中绑定自定义域名
+4. （可选）在 **Settings → Triggers** 中绑定自定义域名（尽量绑定，否则需要翻墙访问！）
 > [!IMPORTANT]
 > 注意（不看容易失败）
 > <img width="1994" height="1063" alt="QQ_1785649739292" src="https://github.com/user-attachments/assets/73ef19a9-0e3a-446e-991f-a925d269bbc8" />
